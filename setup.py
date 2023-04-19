@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='ALBA_Pipeline',
+    name='rian-alba-tools',
     version='0.1',
     packages=find_packages(),
     install_requires=[
