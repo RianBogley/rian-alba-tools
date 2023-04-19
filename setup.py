@@ -21,7 +21,7 @@ setup(
         'zentables',
         'joblib',
     ],
-    url='https://github.com/RianBogley/ALBA_Pipeline/',
+    url='https://github.com/RianBogley/rian-alba-tools/',
     author='Rian Bogley',
     author_email='rianbogley@gmail.com',
     description='',
